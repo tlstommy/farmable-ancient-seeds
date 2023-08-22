@@ -18,7 +18,7 @@ Torchflower seeds and pitcher pods can be crafted by surrounding the item with 8
 
 # Installation
 
-1. Download the .zip file from the [versions](tbd) section on Modrinth or from the [Github releases channel](https://github.com/tlstommy/farmable-ancient-seeds/releases).
+1. Download the .zip file from the [versions](https://modrinth.com/datapack/farmable-ancient-seeds/versions) section on Modrinth or from the [Github releases channel](https://github.com/tlstommy/farmable-ancient-seeds/releases).
 2. Place the .zip file into the `datapacks` folder of your world.
 
 ## Issues & Suggestions
