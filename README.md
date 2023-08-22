@@ -1,5 +1,5 @@
 # farmable-ancient-seeds
-Torch flowers and pitcher plants should have farmable seeds. 
+Torchflowers and pitcher plants should have farmable seeds. 
 
 This is a simple data pack that adds a shapeless crafting recipe to turn torch flowers and pitcher plants into their respective seeds.
 
