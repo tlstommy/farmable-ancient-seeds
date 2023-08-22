@@ -1,13 +1,18 @@
 {
-    "type": "crafting_shapeless",
-    "ingredients": [
-      {
-        "item": "minecraft:pitcher_plant"
-      },
-      {
-        "item": "minecraft:paper"
-      }
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BBB",
+        "BPB",
+        "BBB"
     ],
+    "key": {
+        "B": {
+            "item": "minecraft:bone_meal"
+        },
+        "P": {
+            "item": "minecraft:pitcher_plant"
+        }
+    },
     "result": {
       "item": "minecraft:pitcher_pod",
       "count": 2
