@@ -5,7 +5,7 @@ This is a simple data pack that adds a shapeless crafting recipe to turn torch f
 
 
 # Crafting
-Torch flower seeds and pitcher pods can be crafted by surrounding the item with 8 bonemeal.
+Torchflower seeds and pitcher pods can be crafted by surrounding the item with 8 bonemeal.
 
 ## Pitcher Pods
 #### Surrounding a pitcher plant with 8 bonemeal produces 2 pitcher pods.
