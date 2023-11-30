@@ -1,4 +1,8 @@
 # Farmable Ancient Seeds
+![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/farmable-ancient-seeds)
+![Modrinth Version](https://img.shields.io/modrinth/v/farmable-ancient-seeds)
+![GitHub](https://img.shields.io/github/license/tlstommy/farmable-ancient-seeds)
+#### [Modrinth Page](https://modrinth.com/datapack/farmable-ancient-seeds)
 Torchflowers and pitcher plants should have farmable seeds. 
 
 This is a simple Minecraft data pack that adds a shapeless crafting recipe to turn torch flowers and pitcher plants into their respective seeds.
@@ -18,7 +22,7 @@ Torchflower seeds and pitcher pods can be crafted by surrounding the item with 8
 
 # Installation
 
-1. Download the .zip file from the [versions](tbd) section on Modrinth or from the [Github releases channel](https://github.com/tlstommy/farmable-ancient-seeds/releases).
+1. Download the .zip file from the [versions](https://modrinth.com/datapack/farmable-ancient-seeds/versions) section on Modrinth or from the [Github releases channel](https://github.com/tlstommy/farmable-ancient-seeds/releases).
 2. Place the .zip file into the `datapacks` folder of your world.
 
 ## Issues & Suggestions
