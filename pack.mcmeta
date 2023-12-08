@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 18,
-    "description": "Makes torchflower and pitcher plants seeds craftable and farmable."
+    "pack_format": 26,
+    "description": "Makes torchflowers and pitcher plants farmable."
   }
 }
